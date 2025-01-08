@@ -1,0 +1,60 @@
+{
+  "crm-data": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "opportunityValue": 1000,
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "opportunityValue": 500,
+      "status": "Inactive"
+    },
+    {
+      "id": 3,
+      "name": "Sumit",
+      "email": "Sumit@example.com",
+      "opportunityValue": 400,
+      "status": "Inactive"
+    },
+    {
+      "id": 4,
+      "name": "Reeta",
+      "email": "Reeta@example.com",
+      "opportunityValue": 600,
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Kabir",
+      "email": "Kabir@example.com",
+      "opportunityValue": 800,
+      "status": "Inactive"
+    },
+    {
+      "id": 6,
+      "name": "Ravi",
+      "email": "Ravi@example.com",
+      "opportunityValue": 700,
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "Ron",
+      "email": "Ron@example.com",
+      "opportunityValue": 300,
+      "status": "Inactive"
+    },
+    {
+      "id": 8,
+      "name": "Jack",
+      "email": "Jack@example.com",
+      "opportunityValue": 100,
+      "status": "Active"
+    }
+  ]
+}
