@@ -36,4 +36,5 @@ zenerofrontend/
 └── README.md              # This file
 
 
+# Thank you for your feedback. I appreciate your insights and will work on incorporating the suggestions to improve the project.
 
